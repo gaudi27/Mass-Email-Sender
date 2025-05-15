@@ -1,5 +1,4 @@
 #imports
-import gspread
 import os
 import sys
 import json
